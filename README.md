@@ -4,7 +4,7 @@
 <hr>
 
 <p align="center">
-  <a href ="#calendar-plano-de-ação-clique-na-sprint-desejada-para-verificar-o-seu-andamento"> Plano de Ação </a>  • 
+  <a href ="#calendar-plano-de-ação-clique-na-sprint-desejada-para-verificar-o-seu-andamento"> Planejamento </a>  • 
   <a href ="#dart-prosposta">  Proposta </a>  • 
   <a href ="#pushpin-requisitos"> Requisitos </a>  • 
   <a href ="#computer-wireframe"> Wireframe</a>  • 
