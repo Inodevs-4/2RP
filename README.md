@@ -95,7 +95,7 @@ As seguintes ferramentas estão sendo usadas na construção do projeto:
 
 #### **Data-base**  
 
--   **[PostgreSQL](https://www.postgresql.org/) 
+-   [PostgreSQL](https://www.postgresql.org/) 
 
  
 <!--## :gear: Execução 
