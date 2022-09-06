@@ -113,6 +113,7 @@ As seguintes ferramentas estão sendo usadas na construção do projeto:
 | Aluno(a)         | Função           | GitHub                                                         | LinkedIn                                              |
 | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
 |__Debora Faria__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/deborafaria01)| [![](https://bit.ly/2P1ZogM)](https://bit.ly/2QwcT8R) |
+|__Felipe Augusto dos Santos Sousa__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/FelipeASousa)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/felipe-s-89938418a/) |
 |__Gustavo Kenji Ando__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/GustavoAndo)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/gustavo-ando-054414209/) |
 |__Júlia Maria Santos Barroso__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/jumajubs)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/) |
 |__Kauã Gustavo Rodrigues Reno__  | *Product Owner* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Kaua-Reno)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/kau%C3%A3-gustavo-r-reno-6a3142205/) |
