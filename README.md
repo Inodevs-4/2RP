@@ -1,4 +1,7 @@
-### <p align="center">Aprendizado por projeto integrador-FATEC-SJC </center>
+<h2 align="center"> 
+  Aprendizado por Projeto Integrador
+</h2>
+
 
 # <p align="center"> NewInoDevs </center> 
 <hr>
