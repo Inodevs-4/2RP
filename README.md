@@ -17,7 +17,7 @@
 <br>
 
 
-## 💹 Planejamento
+### 💹 Planejamento
 
 Acesse a branch referente a entrega da sprint clicando no link:
 
@@ -30,7 +30,7 @@ Acesse a branch referente a entrega da sprint clicando no link:
 * [ ] __Feira de Soluções__ - 08/12/2022  
 
 
-## :dart: Prosposta
+### :dart: Prosposta
 
 Desenvolver uma plataforma web para controle da jornada de trabalho dos colaboradores, bem como o cadastro e identificação de horas extras e sobreavisos, integração para consumo de dados dos colaboradores com o ADP, integração com o login e extração padronizada das horas executadas.
 
@@ -38,9 +38,9 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 > [Documentação](colocar link dos documentos aqui)
 <br>
 
-## :pushpin: Requisitos
+### :pushpin: Requisitos
 
-### Requisitos Funcionais
+**Requisitos Funcionais**
 1. &nbsp; Integração para consumo de dados;
 2. &nbsp; Integração com o login 2RP (SSO ou LDAP);
 3. &nbsp; Perfis de administrador, gestor e colaborador;
@@ -54,14 +54,14 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 11. &nbsp; Aplicação das regras de horas extras e sobreavisos na extração;
 12. &nbsp; Dashboards das horas extras executadas com filtro cliente, CR e colaborador. <br>
 
-### Requisitos Não Funcionais
+*Requisitos Não Funcionais*
 1. &nbsp; React;
 2. &nbsp; NodeJS;
 3. &nbsp; Responsividade.
 <br>
  
 
-## Backlog
+### Backlog
 
 <h1 align="center"><img src = "link aqui" width="80%"></h1>
 
@@ -72,7 +72,7 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 🔵- Seria bom ter.<br></h5>
 
 
-## :computer: Wireframe
+### :computer: Wireframe
 
 Acesse o link para visualizar:
 > * [No Figma.](colocar link aqui)  
@@ -102,13 +102,13 @@ As seguintes ferramentas estão sendo usadas na construção do projeto:
 <h1 align="center"><img src = " " width="100%" height="580px"></h1>
 <br>-->
 
- ## Manual de Instalação
+ ### Manual de Instalação
 
 [Manual pdf](colocar link aqui)
 <br>
 
 
-## :mortar_board: Dev Team
+### :mortar_board: Dev Team
 
 | Aluno(a)         | Função           | GitHub                                                         | LinkedIn                                              |
 | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
