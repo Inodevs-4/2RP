@@ -1,13 +1,10 @@
-<h2 align="center"> 
-  Aprendizado por Projeto Integrador
-</h2>
-
+### <p align="center">Aprendizado por Projeto Integrador </center>
 
 # <p align="center"> NewInoDevs </center> 
-
+<hr>
 
 <p align="center">
-  <a href ="#calendar-plano-de-ação-clique-na-sprint-desejada-para-verificar-o-seu-andamento"> Planejamento </a>  • 
+  <a href ="#calendar-plano-de-ação-clique-na-sprint-desejada-para-verificar-o-seu-andamento"> Plano de Ação </a>  • 
   <a href ="#dart-prosposta">  Proposta </a>  • 
   <a href ="#pushpin-requisitos"> Requisitos </a>  • 
   <a href ="#computer-wireframe"> Wireframe</a>  • 
@@ -16,6 +13,8 @@
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
 
 </p>
+<hr>
+<br>
 
 
 ## 💹 Planejamento
