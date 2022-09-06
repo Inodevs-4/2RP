@@ -7,7 +7,7 @@
 <hr>
 
 <p align="center">
-  <a href ="#calendar-plano-de-ação-clique-na-sprint-desejada-para-verificar-o-seu-andamento"> Plano de Ação </a>  • 
+  <a href ="#calendar-plano-de-ação-clique-na-sprint-desejada-para-verificar-o-seu-andamento"> Planejamento </a>  • 
   <a href ="#dart-prosposta">  Proposta </a>  • 
   <a href ="#pushpin-requisitos"> Requisitos </a>  • 
   <a href ="#computer-wireframe"> Wireframe</a>  • 
@@ -19,14 +19,18 @@
 <hr>
 <br>
 
-## :calendar: Plano de Ação (Clique na Sprint desejada para verificar o seu andamento) 
+## 💹 Planejamento
 
-- [x] Kick-off - 15/08 a 19/08 - Concluído :heavy_check_mark:
-- [ ] [Sprint 1] - 29/08 a 18/09
-- [ ] [Sprint 2] - 19/09 a 09/10 
-- [ ] [Sprint 3] - 13/10 a 06/11 
-- [ ] [Sprint 4] - 07/11 a 27/11 
-- [ ] Feira de Soluções - 08/12
+Acesse a branch referente a entrega da sprint clicando no link:
+
+* [x] __Kick-off__ - 15/08/2022 - ✅
+* [ ] [__Sprint 1__](link aqui) - 29/08/2022 a 18/09/2022 - 
+* [ ] [__Sprint 2__](link aqui) - 19/09/2022 a 09/10/2022 - 
+* [ ] [__Sprint 3__](link aqui) - 13/10/2022 a 06/11/2022 - 
+* [ ] [__Sprint 4__](link aqui) - 07/11/2022 a 27/11/2022 - 
+* [ ] __Apresentação Final__ - 08/12/2022 - 
+* [ ] __Feira de Soluções__ - 08/12/2022 - 
+
 
 ## :dart: Prosposta
 
