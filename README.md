@@ -1,10 +1,10 @@
-<h3 align="center"> 
+<h2 align="center"> 
   Aprendizado por Projeto Integrador
-</h3>
+</h2>
 
 
 # <p align="center"> NewInoDevs </center> 
-<hr>
+
 
 <p align="center">
   <a href ="#calendar-plano-de-ação-clique-na-sprint-desejada-para-verificar-o-seu-andamento"> Planejamento </a>  • 
