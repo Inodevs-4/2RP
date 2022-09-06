@@ -93,17 +93,14 @@ Acesse o link para visualizar:
 
 ## :mortar_board: Dev Team
 
-|  Nome   |  Função |    GitHub    |    Linkedin   |
-| :---         |     :---:      |     :---:     |          :---: |
-| Debora Conceição Faria | Developer Team  | [@GitHub](https://github.com/deborafaria01) | [@LinkedIn](https://www.linkedin.com/in/debora-faria2109/) |
-| Gustavo Kenji Ando | Developer Team | [@GitHub](https://github.com/GustavoAndo) | [@LinkedIn](https://www.linkedin.com/in/gustavo-ando-054414209/) |
-| Júlia Maria Santos Barroso | Developer Team | [@GitHub](https://github.com/jumajubs) | [@LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/) |
-| Kauã Gustavo Rodrigues Reno | Product Owner | [@GitHub](https://github.com/Kaua-Reno) | [@LinkedIn](https://www.linkedin.com/in/kau%C3%A3-gustavo-r-reno-6a3142205/) | 
-| Luís Henrique Ferreira Souza | Scrum Master | [@GitHub]( https://github.com/Luisttine) | [@LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-souza/) |
-| Maria Eduarda Macedo Braga | Developer Team | [@GitHub](https://github.com/madu-braga)  | [@LinkedIn](https://www.linkedin.com/in/luizhabaeb/)  |
-
-
-
+| Aluno(a)         | Função           | GitHub                                                         | LinkedIn                                              |
+| ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
+|__Debora Faria__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/deborafaria01)| [![](https://bit.ly/2P1ZogM)](https://bit.ly/2QwcT8R) |
+|__Gustavo Kenji Ando__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/GustavoAndo)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/gustavo-ando-054414209/) |
+|__Júlia Maria Santos Barroso__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/jumajubs)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/) |
+|__Kauã Gustavo Rodrigues Reno__  | *Product Owner* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Kaua-Reno)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/kau%C3%A3-gustavo-r-reno-6a3142205/) |
+|__Luís Henrique Ferreira Souza__  | *Scrum Master* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Luisttine)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/lu%C3%ADs-souza//) |
+|__Maria Eduarda Macedo Braga__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/madu-braga)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/luizhabaeb/) |
 
 
 
