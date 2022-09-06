@@ -117,7 +117,7 @@ As seguintes ferramentas estão sendo usadas na construção do projeto:
 |__Júlia Maria Santos Barroso__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/jumajubs)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/) |
 |__Kauã Gustavo Rodrigues Reno__  | *Product Owner* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Kaua-Reno)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/kau%C3%A3-gustavo-r-reno-6a3142205/) |
 |__Luís Henrique Ferreira Souza__  | *Scrum Master* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Luisttine)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/lu%C3%ADs-souza//) |
-|__Maria Eduarda Macedo Braga__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/madu-braga)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/luizhabaeb/) |
+|__Maria Eduarda Macedo Braga__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/madu-braga)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/) |
 
 
 
