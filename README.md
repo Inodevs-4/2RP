@@ -9,7 +9,7 @@
   <a href ="#pushpin-requisitos"> Requisitos </a>  • 
   <a href ="#computer-wireframe"> Wireframe</a>  • 
   <a href ="#rocket-tecnologias-utilizadas">  Tecnologias Utilizadas </a>  • 
-   <a href ="#manual-de-instalação"> Manual de instalação</a> • 
+   <a href ="#manual-de-instalação"> Manual de Instalação</a> • 
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
 
 </p>
