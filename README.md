@@ -79,15 +79,31 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 Acesse o link para visualizar:
 > * [No Figma.](colocar link aqui)  
   <br>
-     
-## :rocket: Tecnologias Utilizadas
+ 
+ ### 🛠 Tecnologias
 
-* *Reuniões e Apresentações:* Discord, WhatsApp e Microsoft Teams;
-* *Back-end:* NodeJS, TypeScript,...
-* *Front-end:* HTML5, CSS, React...
-* *Ferramentas:* GitHub, VS Code, Canva, Excel, Figma e Jira.
-<br>
-  
+As seguintes ferramentas estão sendo usadas na construção do projeto:
+
+#### **Front-end**  
+
+-   **[React](https://reactjs.org/)**
+-   **[TypeScript](https://www.typescriptlang.org/)**
+-   HTML5 
+-   CSS3
+
+#### **Back-end**  
+
+-   **[NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/)**
+
+#### **Data-base**  
+
+-   **[PostgreSQL](https://www.postgresql.org/) 
+
+#### **Wireframe** 
+
+-   **[Figma](https://www.figma.com/)**
+
+ 
 <!--## :gear: Execução 
 <h1 align="center"><img src = " " width="100%" height="580px"></h1>
 <br>-->
