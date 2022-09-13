@@ -15,7 +15,8 @@
 </p>
 <hr>
 <br>
-
+ 
+ 
 
 ## 💹 Planejamento
 
@@ -23,12 +24,17 @@ Acesse a branch referente a entrega da sprint clicando no link:
 
 * [x] __Kick-off__ - 15/08/2022 
 * [ ] [__Sprint 1__](link aqui) - 29/08/2022 a 18/09/2022 
-* [ ] [__Sprint 2__](link aqui) - 19/09/2022 a 09/10/2022  
-* [ ] [__Sprint 3__](link aqui) - 13/10/2022 a 06/11/2022  
-* [ ] [__Sprint 4__](link aqui) - 07/11/2022 a 27/11/2022  
+* [ ] __Sprint 2__ - 19/09/2022 a 09/10/2022  
+* [ ] __Sprint 3__ - 13/10/2022 a 06/11/2022  
+* [ ] __Sprint 4__ - 07/11/2022 a 27/11/2022  
 * [ ] __Apresentação Final__ - 08/12/2022 
 * [ ] __Feira de Soluções__ - 08/12/2022  
 
+## 🖥️ Front-end 
+* [Clique aqui para acessar o repositório do Front-end ](https://github.com/Inodevs-4/Front-End)
+
+## 🖱️ Back-end
+* [Clique aqui para acessar o repositório do Back-end ](https://github.com/Inodevs-4/Back-End)
 
 ## :dart: Prosposta
 
