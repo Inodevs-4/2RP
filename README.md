@@ -64,7 +64,7 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 <br>
  
 
-## Backlog
+## 📃 Backlog
 
 <h1 align="center"><img src = "link aqui" width="80%"></h1>
 
@@ -117,10 +117,6 @@ As seguintes ferramentas estão sendo usadas na construção do projeto:
 |__Luís Henrique Ferreira Souza__  | *Scrum Master* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Luisttine)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/lu%C3%ADs-souza//) |
 |__Maria Eduarda Macedo Braga__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/madu-braga)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/) |
 |__Richard Rafael Sacramento Soares__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Richardrafael)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/richardsoaress) |
-
-
-
-
 
 <h1 align="center"></h1>
 
