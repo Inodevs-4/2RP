@@ -31,10 +31,10 @@ Acesse a branch referente a entrega da sprint clicando no link:
 * [ ] __Feira de Soluções__ - 08/12/2022  
 
 ## 🖥️ Front-end 
-* [Clique aqui para acessar o repositório do Front-end ](https://github.com/Inodevs-4/Front-End)
+* [Clique aqui para acessar o código do Front-end ](https://github.com/Inodevs-4/Front-End)
 
 ## 🖱️ Back-end
-* [Clique aqui para acessar o repositório do Back-end ](https://github.com/Inodevs-4/Back-End)
+* [Clique aqui para acessar o código do Back-end ](https://github.com/Inodevs-4/Back-End)
 
 ## :dart: Prosposta
 
