@@ -41,9 +41,6 @@ Acesse a branch referente a entrega da sprint clicando no link:
 Desenvolver uma plataforma web para controle da jornada de trabalho dos colaboradores, bem como o cadastro e identificação de horas extras e sobreavisos, integração para consumo de dados dos colaboradores com o ADP, integração com o login e extração padronizada das horas executadas.
 
 
-> [Documentação](colocar link dos documentos aqui)
-<br>
-
 ## :pushpin: Requisitos
 
 **Requisitos Funcionais**
