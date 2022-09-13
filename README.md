@@ -20,7 +20,7 @@
 
 ## 💹 Planejamento
 
-Acesse a branch referente a entrega da sprint clicando no link:
+Acesse a pasta referente a entrega da sprint clicando no link:
 
 * [x] __Kick-off__ - 15/08/2022 
 * [ ] [__Sprint 1__](https://github.com/Inodevs-4/2RP/tree/main/Sprint%201) - 29/08/2022 a 18/09/2022 
