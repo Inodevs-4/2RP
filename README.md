@@ -33,7 +33,7 @@ Acesse a branch referente a entrega da sprint clicando no link:
 ## 🖥️ Front-end 
 * [Clique aqui para acessar o código do Front-end ](https://github.com/Inodevs-4/Front-End)
 
-## 🖱️ Back-end
+## 🛠 Back-end
 * [Clique aqui para acessar o código do Back-end ](https://github.com/Inodevs-4/Back-End)
 
 ## :dart: Prosposta
