@@ -105,12 +105,6 @@ As seguintes ferramentas estão sendo usadas na construção do projeto:
 <h1 align="center"><img src = " " width="100%" height="580px"></h1>
 <br>-->
 
- ## Manual de Instalação
-
-[Manual pdf](colocar link aqui)
-<br>
-
-
 ## :mortar_board: Dev Team
 
 | Aluno(a)         | Função           | GitHub                                                         | LinkedIn                                              |
