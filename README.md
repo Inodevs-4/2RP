@@ -66,7 +66,7 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 
 ## 📃 Backlog
 
-<h1 align="center"><img src = "link aqui" width="80%"></h1>
+<h1 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/Backlog.png" width="80%"></h1>
 
 <h5 align="center">Prioridade:<br>
 🔴- Alta,
