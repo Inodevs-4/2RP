@@ -71,8 +71,7 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 <h5 align="center">Prioridade:<br>
 🔴- Alta,
 🟡- Média,
-🟢- Baixa,
-🔵- Seria bom ter.<br></h5>
+🟢- Baixa.<br></h5>
 
 
 ## :computer: Wireframe
