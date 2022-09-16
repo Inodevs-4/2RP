@@ -76,8 +76,8 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 
 ## :computer: Wireframe
 
-Acesse o link para visualizar:
-> * [Link interativo](https://www.figma.com/proto/BN2VIrDesZK10U4zUvieGA/2RP?node-id=61%3A1454&scaling=min-zoom&page-id=0%3A1)  
+Acesse o link para visualizar o protótipo no Figma:
+> * [Clique aqui!](https://www.figma.com/proto/BN2VIrDesZK10U4zUvieGA/2RP?node-id=61%3A1454&scaling=min-zoom&page-id=0%3A1)  
   <br>
  
  ## 🛠 Tecnologias
