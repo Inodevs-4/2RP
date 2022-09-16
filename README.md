@@ -7,9 +7,9 @@
   <a href ="#calendar-plano-de-ação-clique-na-sprint-desejada-para-verificar-o-seu-andamento"> Planejamento </a>  • 
   <a href ="#dart-prosposta">  Proposta </a>  • 
   <a href ="#pushpin-requisitos"> Requisitos </a>  • 
+  <a href ="#backlog"> Backlog </a>  • 
   <a href ="#computer-wireframe"> Wireframe</a>  • 
-  <a href ="#rocket-tecnologias-utilizadas">  Tecnologias Utilizadas </a>  • 
-   <a href ="#manual-de-instalação"> Manual de Instalação</a> • 
+  <a href ="#rocket-tecnologias-utilizadas">  Tecnologias Utilizadas </a>  •  
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
 
 </p>
