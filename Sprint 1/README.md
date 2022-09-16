@@ -20,6 +20,18 @@ Acesse o link para visualizar o protótipo no Figma.
 
 **Obs.: Para adequar a apresentação ao tamanho da sua tela clique em _Options_ e em seguida em _Fit to screen_.**
 
+### Tela de Login
+
+### Tela Home
+
+### Tela de Modalidade de Cadastro
+
+### Tela de Informações do Colaborador
+
+### Tela de Aprovação
+
+
+
 ## 🖥️ Front-end 
 * [Clique aqui para acessar o código do Front-end ](https://github.com/Inodevs-4/Front-End)
 
