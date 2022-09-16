@@ -64,7 +64,6 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 3. &nbsp; Responsividade.
 <br>
  
-
 ## :page_with_curl: Backlog
 
 <h1 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/Backlog.png" width="80%"></h1>
@@ -78,12 +77,13 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 ## :computer: Wireframe
 
 Acesse o link para visualizar o protótipo no Figma. 
+
 * [Clique aqui!](https://www.figma.com/proto/BN2VIrDesZK10U4zUvieGA/2RP?node-id=61%3A1454&scaling=min-zoom&page-id=0%3A1)  
 **Obs.: Para adequar a apresentação ao tamanho da sua tela clique em Options e em seguida em Fit to screen.**
  
  ## :paperclip: Tecnologias
 
-As seguintes ferramentas estão sendo usadas na construção do projeto:
+As seguintes ferramentas estão sendo usadas no desenvolvimento do projeto:
 
 #### **Front-end**  
 
