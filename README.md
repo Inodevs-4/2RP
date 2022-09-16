@@ -77,7 +77,7 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 
 ## :computer: Wireframe
 
-Acesse o link para visualizar o protótipo no Figma:
+Acesse o link para visualizar o protótipo no Figma. Para adequar a apresentação ao tamanho da sua tela clique em ***Options e em seguida em ***Fit to screen***.
 > * [Clique aqui!](https://www.figma.com/proto/BN2VIrDesZK10U4zUvieGA/2RP?node-id=61%3A1454&scaling=min-zoom&page-id=0%3A1)  
   <br>
  
