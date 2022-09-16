@@ -60,6 +60,7 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 1. &nbsp; React;
 2. &nbsp; NodeJS;
 3. &nbsp; Responsividade.
+<br>
  
 ## :page_with_curl: Backlog
 <h1 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/Backlog.png" width="80%"></h1>
