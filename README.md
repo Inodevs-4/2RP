@@ -41,7 +41,6 @@ Acesse a pasta referente a entrega da sprint clicando no link:
 <br>
 
 ## :dart: Prosposta
-
 Desenvolver uma plataforma web para controle da jornada de trabalho dos colaboradores, bem como o cadastro e identificação de horas extras e sobreavisos, integração para consumo de dados dos colaboradores com o ADP, integração com o login e extração padronizada das horas executadas.
 <br>
 
@@ -68,7 +67,6 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 <br>
  
 ## :page_with_curl: Backlog
-
 <h1 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/Backlog.png" width="80%"></h1>
 
 <h5 align="center">Prioridade:<br>
@@ -105,7 +103,6 @@ As seguintes ferramentas estão sendo usadas no desenvolvimento do projeto:
 -   **[PostgreSQL](https://www.postgresql.org/)**
 <br>
 
- 
 <!--## :gear: Execução 
 <h1 align="center"><img src = " " width="100%" height="580px"></h1>
 <br>-->
