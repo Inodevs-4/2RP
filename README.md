@@ -18,7 +18,7 @@
  
  
 
-## 💹 Planejamento
+## :calendar: Planejamento
 
 Acesse a pasta referente a entrega da sprint clicando no link:
 
