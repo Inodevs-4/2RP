@@ -1,6 +1,6 @@
-### <p align="center">Aprendizado por Projeto Integrador </center>
+## <p align="center">Aprendizado por Projeto Integrador </center>
 
-## <p align="center"> NewInoDevs </center> 
+# <p align="center"> NewInoDevs </center> 
 <hr>
 
 <p align="center">
