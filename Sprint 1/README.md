@@ -20,15 +20,15 @@ Acesse o link para visualizar o protótipo no Figma.
 
 **Obs.: Para adequar a apresentação ao tamanho da sua tela clique em _Options_ e em seguida em _Fit to screen_.**
 
-### Tela de Login
+#### 1. Tela de Login
 
-### Tela Home
+#### 2. Tela Home
 
-### Tela de Modalidade de Cadastro
+#### 3. Tela de Modalidade de Cadastro
 
-### Tela de Informações do Colaborador
+#### 4. Tela de Informações do Colaborador
 
-### Tela de Aprovação
+#### 5. Tela de Aprovação
 
 
 
