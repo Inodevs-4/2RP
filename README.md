@@ -4,12 +4,14 @@
 <hr>
 
 <p align="center">
-  <a href ="#calendar-plano-de-ação-clique-na-sprint-desejada-para-verificar-o-seu-andamento"> Planejamento </a>  • 
-  <a href ="#dart-prosposta">  Proposta </a>  • 
+  <a href ="#calendar-planejamento"> Planejamento </a>  • 
+  <a href ="#desktop_computer-front-end"> Front-end </a>  •
+  <a href ="#gear-back-end"> Back-end </a>  • 
+  <a href ="#dart-prosposta"> Proposta </a>  • 
   <a href ="#pushpin-requisitos"> Requisitos </a>  • 
-  <a href ="#backlog"> Backlog </a>  • 
+  <a href ="#page_with_curl-backlog"> Backlog </a>  • 
   <a href ="#computer-wireframe"> Wireframe</a>  • 
-  <a href ="#rocket-tecnologias-utilizadas">  Tecnologias Utilizadas </a>  •  
+  <a href ="#paperclip-tecnologias"> Tecnologias </a>  •  
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
 
 </p>
@@ -30,10 +32,10 @@ Acesse a pasta referente a entrega da sprint clicando no link:
 * [ ] __Apresentação Final__ - 08/12/2022 
 * [ ] __Feira de Soluções__ - 08/12/2022  
 
-## 🖥️ Front-end 
+## :desktop_computer: Front-end 
 * [Clique aqui para acessar o código do Front-end ](https://github.com/Inodevs-4/Front-End)
 
-## 🛠 Back-end
+## :gear: Back-end
 * [Clique aqui para acessar o código do Back-end ](https://github.com/Inodevs-4/Back-End)
 
 ## :dart: Prosposta
@@ -64,7 +66,7 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 <br>
  
 
-## 📃 Backlog
+## :page_with_curl: Backlog
 
 <h1 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/Backlog.png" width="80%"></h1>
 
@@ -80,7 +82,7 @@ Acesse o link para visualizar o protótipo no Figma:
 > * [Clique aqui!](https://www.figma.com/proto/BN2VIrDesZK10U4zUvieGA/2RP?node-id=61%3A1454&scaling=min-zoom&page-id=0%3A1)  
   <br>
  
- ## 🛠 Tecnologias
+ ## :paperclip: Tecnologias
 
 As seguintes ferramentas estão sendo usadas na construção do projeto:
 
