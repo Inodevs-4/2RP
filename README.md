@@ -30,17 +30,20 @@ Acesse a pasta referente a entrega da sprint clicando no link:
 * [ ] __Sprint 4__ - 07/11/2022 a 27/11/2022  
 * [ ] __Apresentação Final__ - 08/12/2022 
 * [ ] __Feira de Soluções__ - 08/12/2022  
+<br>
 
 ## :desktop_computer: Front-end 
 * [Clique aqui para acessar o código do Front-end ](https://github.com/Inodevs-4/Front-End)
+<br>
 
 ## :gear: Back-end
 * [Clique aqui para acessar o código do Back-end ](https://github.com/Inodevs-4/Back-End)
+<br>
 
 ## :dart: Prosposta
 
 Desenvolver uma plataforma web para controle da jornada de trabalho dos colaboradores, bem como o cadastro e identificação de horas extras e sobreavisos, integração para consumo de dados dos colaboradores com o ADP, integração com o login e extração padronizada das horas executadas.
-
+<br>
 
 ## :pushpin: Requisitos
 
@@ -72,7 +75,7 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 🔴- Alta,
 🟡- Média,
 🟢- Baixa.<br></h5>
-
+<br>
 
 ## :computer: Wireframe
 
@@ -80,6 +83,7 @@ Acesse o link para visualizar o protótipo no Figma.
 
 * [Clique aqui!](https://www.figma.com/proto/BN2VIrDesZK10U4zUvieGA/2RP?node-id=61%3A1454&scaling=min-zoom&page-id=0%3A1)  
 **Obs.: Para adequar a apresentação ao tamanho da sua tela clique em Options e em seguida em Fit to screen.**
+<br>
  
  ## :paperclip: Tecnologias
 
@@ -99,6 +103,7 @@ As seguintes ferramentas estão sendo usadas no desenvolvimento do projeto:
 #### **Data-base**  
 
 -   **[PostgreSQL](https://www.postgresql.org/)**
+<br>
 
  
 <!--## :gear: Execução 
