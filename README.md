@@ -80,7 +80,7 @@ Acesse o link para visualizar o protótipo no Figma.
  
  ## :paperclip: Tecnologias
 
-As seguintes ferramentas estão sendo usadas no desenvolvimento do projeto:
+As seguintes ferramentas estão sendo utilizadas no desenvolvimento do projeto:
 
 #### **Front-end**  
 
