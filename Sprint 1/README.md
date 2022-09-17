@@ -21,14 +21,19 @@ Acesse o link para visualizar o protótipo no Figma.
 **Obs.: Para adequar a apresentação ao tamanho da sua tela clique em _Options_ e em seguida em _Fit to screen_.**
 
 #### 1. Tela de Login
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%201/Wireframe/Tela%20Login.png" width="50%">
 
 #### 2. Tela Home
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%201/Wireframe/Tela%20home.png" width="50%">
 
 #### 3. Tela de Modalidade de Cadastro
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%201/Wireframe/Tela%20de%20Cadastro%201.png" width="50%">
 
 #### 4. Tela de Informações do Colaborador
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%201/Wireframe/Tela%20de%20Cadastro%202.png" width="50%">
 
 #### 5. Tela de Aprovação
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%201/Wireframe/Tela%20de%20Cadastro%203.png" width="50%">
 
 
 
@@ -48,4 +53,4 @@ Acesse o link para visualizar o protótipo no Figma.
 ![Execução Apontamento de Horas](https://github.com/Inodevs-4/2RP/blob/main/Sprint%201/gifs/homePage.gif)
 
 ## 📈 Burndown
-<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%201/BurnDown/burndown_sprint1_2rp.png" width="50%">
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%201/BurnDown/burndown_sprint1_2rp.png" width="70%">
