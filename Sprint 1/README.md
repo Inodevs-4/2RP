@@ -46,3 +46,7 @@ Acesse o link para visualizar o protótipo no Figma.
 
 ### 2. Apontamento de Horas
 ![Execução Apontamento de Horas](https://github.com/Inodevs-4/2RP/blob/main/Sprint%201/gifs/homePage.gif)
+
+## 📈 Burndown
+
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%201/BurnDown/burndown_sprint1_2rp.png" width="50%">
