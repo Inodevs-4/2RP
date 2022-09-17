@@ -33,8 +33,16 @@ Acesse o link para visualizar o protótipo no Figma.
 
 
 ## 🖥️ Front-end 
+
 * [Clique aqui para acessar o código do Front-end ](https://github.com/Inodevs-4/Front-End)
 
 ## 🛠️ Back-end
 * [Clique aqui para acessar o código do Back-end ](https://github.com/Inodevs-4/Back-End)
 
+## 🎥 Gif de execução
+
+### 1. Home Page
+![Execução Home Page](https://github.com/Inodevs-4/2RP/blob/main/Sprint%201/gifs/apontamentoHoras.gif)
+
+### 2. Apontamento de Horas
+![Execução Apontamento de Horas](https://github.com/Inodevs-4/2RP/blob/main/Sprint%201/gifs/homePage.gif)
