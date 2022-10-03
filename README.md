@@ -9,6 +9,7 @@
   <a href ="#dart-prosposta"> Proposta </a>  • 
   <a href ="#pushpin-requisitos"> Requisitos </a>  • 
   <a href ="#page_with_curl-backlog"> Backlog </a>  • 
+  <a href ="#light_bulb"> Modelo de Dados </a>  • 
   <a href ="#computer-wireframe"> Wireframe</a>  • 
   <a href ="#paperclip-tecnologias"> Tecnologias </a>  •  
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
@@ -69,7 +70,7 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 🟡- Média,
 🟢- Baixa.<br></h5>
 
-## Modelo de Dados
+## :light_bulb: Modelo de Dados
 <h5 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/modelo_dados.jpeg" width="80%"></h5>
 
 ## :computer: Wireframe
