@@ -44,7 +44,7 @@ Acesse o link para visualizar o protótipo no Figma.
 ## 🛠️ Back-end
 * [Clique aqui para acessar o código do Back-end ](https://github.com/Inodevs-4/Back-End)
 
-## 🎥 Gif de execução
+## 🎥 Gifs de Execução
 
 ### 1. Home Page
 ![Execução Home Page](https://github.com/Inodevs-4/2RP/blob/main/Sprint%201/gifs/apontamentoHoras.gif)
