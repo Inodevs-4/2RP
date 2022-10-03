@@ -5,7 +5,7 @@
 Abaixo encontram-se todos os itens produzidos durante a Sprint 2 conforme estabelecido previamente por meio do planejamento.
 
 ## :page_with_curl: Backlog
-<h1 align="center"><img src = "link aqui" width="60%"></h1>
+<h1 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%202/Backlog-2.png" width="60%"></h1>
 
 <h5 align="center">Prioridade:<br>
 🔴- Alta,
