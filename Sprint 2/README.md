@@ -27,7 +27,7 @@ Acesse o link para visualizar o protótipo no Figma.
 ## 🛠️ Back-end
 * [Clique aqui para acessar o código do Back-end ](https://github.com/Inodevs-4/Back-End)
 
-## 🎥 Gif de Execução
+## 🎥 Gifs de Execução
 
 ### 1. Login
 ![Login](link aqui)
