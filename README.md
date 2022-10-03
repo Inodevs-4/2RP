@@ -71,7 +71,6 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 
 ## Modelo de Dados
 <h1 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/modelo_dados.jpeg" width="80%"></h1>
-"
 
 ## :computer: Wireframe
 
