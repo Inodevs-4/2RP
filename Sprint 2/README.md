@@ -5,12 +5,14 @@
 Abaixo encontram-se todos os itens produzidos durante a Sprint 2 conforme estabelecido previamente por meio do planejamento.
 
 ## :page_with_curl: Backlog
-<h5 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%202/Backlog/backlog-2.png" width="50%"></h5>
+<h5 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%202/Backlog/imagem_2022-10-04_222045242.png" width="50%"></h5>
 
 <h5 align="center">Prioridade:<br>
 🔴- Alta,
 🟡- Média,
 🟢- Baixa.<br></h5>
+<h5 align="center">Responsáveis:<br>
+D= Debora, F= Felipe, G= Gustavo, J= Júlia, K= Kauã, L= Luís, M= Maria, R= Richard.</h5>
 
 ## :computer: Wireframe
 
