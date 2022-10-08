@@ -73,6 +73,9 @@ Desenvolver uma plataforma web para controle da jornada de trabalho dos colabora
 ## :scroll: Modelo de Dados
 <h5 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/modelo_dados.jpeg" width="80%"></h5>
 
+## :scroll: Modelo lógico
+<h5 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/Modelo_logico.jpeg" width="80%"></h5>
+
 ## :computer: Wireframe
 
 Acesse o link para visualizar o protótipo no Figma. 
