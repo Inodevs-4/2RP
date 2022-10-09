@@ -42,6 +42,7 @@ Acesse o link para visualizar o protótipo no Figma.
 
 ### 4. Apontamento (Atualização)
 ![Tela Apontamento - Cadastro dos Apontamentos](https://github.com/Inodevs-4/2RP/blob/main/Sprint%202/Gifs/apontamento.gif)
+
 ## 📈 Burndown
 <img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%202/Burndown/burndown_sprint2.png" width="60%">
 
