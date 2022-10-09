@@ -5,7 +5,7 @@
 Abaixo encontram-se todos os itens produzidos durante a Sprint 2 conforme estabelecido previamente por meio do planejamento.
 
 ## :page_with_curl: Backlog
-<h5 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%202/Backlog/imagem_2022-10-06_215418314.png" width="50%"></h5>
+<h5 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%202/Backlog/backlog_sprint2.png" width="50%"></h5>
 
 <h5 align="center">Prioridade:<br>
 🔴- Alta,
@@ -31,21 +31,17 @@ Acesse o link para visualizar o protótipo no Figma.
 
 ## 🎥 Gifs de Execução
 
-### 1. Login
-![Login](link aqui)
+### 1. Login e Menu de Navegação
+![Login](https://github.com/Inodevs-4/2RP/blob/main/Sprint%202/Gifs/login_menu.gif)
 
-### 2. Integração com o Login da Empresa
-![Integração com o Login da Empresa](link aqui)
+### 2. Tela Gestor - Aprovação dos Apontamentos
+![Tela Gestor - Aprovação dos Apontamentos](https://github.com/Inodevs-4/2RP/blob/main/Sprint%202/Gifs/edi%C3%A7%C3%A3o_visu.gif)
 
-### 3. Tela Gestor - Aprovação dos Apontamentos
-![Tela Gestor - Aprovação dos Apontamentos](link aqui)
+### 3. Tela Admin - Edição/Visualização das Informações dos Usuários
+![Tela Admin - Edição/Visualização das Informações dos Usuários](https://github.com/Inodevs-4/2RP/blob/main/Sprint%202/Gifs/cadastro_visu_editUser.gif)
 
-### 4. Tela Admin - Edição/Visualização das Informações dos Usuários
-![Tela Admin - Edição/Visualização das Informações dos Usuários](link aqui)
-
-### 5. Menu de Navegação
-![Menu de Navegação](link aqui)
-
+### 4. Apontamento (Atualização)
+![Tela Apontamento - Cadastro dos Apontamentos](https://github.com/Inodevs-4/2RP/blob/main/Sprint%202/Gifs/apontamento.gif)
 ## 📈 Burndown
-<img src = "link aqui" width="60%">
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%202/Burndown/burndown_sprint2.png" width="60%">
 
