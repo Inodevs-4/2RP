@@ -37,25 +37,25 @@ Acesse o link para visualizar o protótipo no Figma.
 <h3> Edição </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Projeto_Editar.gif?raw=true" width="1000px"/>
 
-<h2> Centro de Resultados </h2>
+<h2> 2. Centro de Resultados </h2>
 <h3> Cadastro </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cr_Cadastro.gif?raw=true" width="1000px"/>
 <h3> Edição </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cr_Editar.gif?raw=true" width="1000px"/>
 
-<h2> Clientes </h2>
+<h2> 3. Clientes </h2>
 <h3> Cadastro </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cliente_Cadastro.gif?raw=true" width="1000px"/>
 <h3> Edição </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cliente_Editar.gif?raw=true" width="1000px"/>
 
-<h2> Manipulação de Verbas </h2>
+<h2> 4. Manipulação de Verbas </h2>
 <h3> Cadastro </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Manipulacao_Cadastro.gif?raw=true" width="1000px"/>
 <h3> Edição </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Manipulacao_Editar.gif?raw=true" width="1000px"/>
 
-<h2> Níveis de Acesso (Colaborador, Gestor, Administrador) </h2>
+<h2> 5. Níveis de Acesso (Colaborador, Gestor, Administrador) </h2>
 
 <h3> Colaborador </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/lvl_colab.gif" width="1000px"/>
