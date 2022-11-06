@@ -31,8 +31,10 @@ Acesse o link para visualizar o protótipo no Figma.
 
 ## 🎥 Gifs de Execução
 
-### 1. 
-
+### 1. Projetos
+#### Cadastro
+<img src = " ">
+#### Edição
 
 ### 2. 
 
