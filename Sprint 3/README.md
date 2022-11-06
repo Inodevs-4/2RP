@@ -33,7 +33,7 @@ Acesse o link para visualizar o protótipo no Figma.
 
 ### 1. Projetos
 #### Cadastro
-![Cadastro de Projeto](https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Projeto_Cadastro.gif?raw=true)
+<img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Projeto_Cadastro.gif?raw=true" width="1000px"/>
 #### Edição
 ![Edição de Projeto](https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Projeto_Editar.gif?raw=true)
 ### 2. Centro de Resultados
