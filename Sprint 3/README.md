@@ -33,17 +33,19 @@ Acesse o link para visualizar o protótipo no Figma.
 
 ### 1. Projetos
 #### Cadastro
-<img src = " ">
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Projeto_Cadastro.gif?raw=true"/>
 #### Edição
-
+<img src = ""/>
 ### 2. 
-
-
+<img src = ""/>
+<img src = ""/>
 ### 3. 
-
+<img src = ""/>
+<img src = ""/>
 
 ### 4. 
-
+<img src = ""/>
+<img src = ""/>
 ## 📈 Burndown
 <img src = " ">
 
