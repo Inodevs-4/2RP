@@ -5,7 +5,7 @@
 Abaixo encontram-se todos os itens produzidos durante a Sprint 3 conforme estabelecido previamente por meio do planejamento.
 
 ## :page_with_curl: Backlog
-<h5 align="center"><img src = " " width="50%"></h5>
+<h5 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Backlog/backlog_sprint3.PNG?raw=true" width="50%"/></h5>
 
 <h5 align="center">Prioridade:<br>
 🔴- Alta,
