@@ -37,14 +37,20 @@ Acesse o link para visualizar o protótipo no Figma.
 #### Edição
 ![Edição de Projeto](https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Projeto_Editar.gif?raw=true)
 ### 2. Centro de Resultados
+#### Cadastro
 ![Cadastro de CR](https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cr_Cadastro.gif?raw=true)
+#### Edição
 ![Edição de CR](https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cr_Editar.gif?raw=true)
 ### 3. Clientes 
+#### Cadastro
 ![Cadastro de Cliente](https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cliente_Cadastro.gif?raw=true)
+#### Edição
 ![Edição de Cliente](https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cliente_Editar.gif?raw=true)
 
 ### 4. Manipulação de Verbas
+#### Cadastro
 ![Cadastro de Verba](https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Manipulacao_Cadastro.gif?raw=true)
+#### Edição
 ![Edição de Verba](https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Manipulacao_Editar.gif?raw=true)
 ## 📈 Burndown
 <img src = " ">
