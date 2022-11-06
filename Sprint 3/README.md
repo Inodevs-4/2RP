@@ -32,24 +32,24 @@ Acesse o link para visualizar o protótipo no Figma.
 ## 🎥 Gifs de Execução
 
 ### 1. Projetos
-#### Cadastro
+<h3> Cadastro </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Projeto_Cadastro.gif?raw=true" width="1000px"/>
-#### Edição
+<h3> Edição </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Projeto_Editar.gif?raw=true" width="1000px"/>
 ### 2. Centro de Resultados
-#### Cadastro
+<h3> Cadastro </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cr_Cadastro.gif?raw=true" width="1000px"/>
-#### Edição
+<h3> Edição </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cr_Editar.gif?raw=true" width="1000px"/>
 ### 3. Clientes 
-#### Cadastro
+<h3> Cadastro </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cliente_Cadastro.gif?raw=true" width="1000px"/>
-#### Edição
+<h3> Edição </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cliente_Editar.gif?raw=true" width="1000px"/>
 ### 4. Manipulação de Verbas
-#### Cadastro
+<h3> Cadastro </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Manipulacao_Cadastro.gif?raw=true" width="1000px"/>
-#### Edição
+<h3> Edição </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Manipulacao_Editar.gif?raw=true" width="1000px"/>
 
 ## 📈 Burndown
