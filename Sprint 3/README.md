@@ -46,7 +46,7 @@ Acesse o link para visualizar o protótipo no Figma.
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cliente_Cadastro.gif?raw=true" width="1000px"/>
 <h3> Edição </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cliente_Editar.gif?raw=true" width="1000px"/>
-<h2> Manipulação de Verbas h2 </h2>
+<h2> Manipulação de Verbas </h2>
 <h3> Cadastro </h3>
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Manipulacao_Cadastro.gif?raw=true" width="1000px"/>
 <h3> Edição </h3>
