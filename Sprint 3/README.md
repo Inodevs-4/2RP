@@ -67,5 +67,5 @@ Acesse o link para visualizar o protótipo no Figma.
 <img src="https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/lvl_adm.gif" width="1000px"/>
 
 ## 📈 Burndown
-<img src = " ">
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Burndown/burndown_sprint3.PNG" width="1000px"/>
 
