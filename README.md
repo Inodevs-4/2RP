@@ -27,8 +27,8 @@ Acesse a pasta referente a entrega da sprint clicando no link:
 * [x] __Kick-off__ - 15/08/2022 
 * [x] [__Sprint 1__](https://github.com/Inodevs-4/2RP/tree/main/Sprint%201) - 29/08/2022 a 18/09/2022 
 * [x] [__Sprint 2__](https://github.com/Inodevs-4/2RP/tree/main/Sprint%202) - 19/09/2022 a 09/10/2022 
-* [x] [__Sprint 3__](https://github.com/Inodevs-4/2RP/tree/main/Sprint%203) - 13/10/2022 a 06/11/2022 👈
-* [ ] __Sprint 4__ - 07/11/2022 a 27/11/2022  
+* [x] [__Sprint 3__](https://github.com/Inodevs-4/2RP/tree/main/Sprint%203) - 13/10/2022 a 06/11/2022 
+* [ ] __Sprint 4__ - 07/11/2022 a 27/11/2022 👈
 * [ ] __Apresentação Final__ - 08/12/2022 
 * [ ] __Feira de Soluções__ - 08/12/2022  
 
