@@ -5,7 +5,7 @@
 Abaixo encontram-se todos os itens produzidos durante a Sprint 4 conforme estabelecido previamente por meio do planejamento.
 
 ## :page_with_curl: Backlog
-<h5 align="center"><img src = "link" width="60%"/></h5>
+<h5 align="center"><img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%204/Backlog/sprint_backlog4.png" width="60%"/></h5>
 
 <h5 align="center">Prioridade:<br>
 🔴- Alta,
