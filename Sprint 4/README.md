@@ -32,10 +32,13 @@ Acesse o link para visualizar o protótipo no Figma.
 ## 🎥 Gifs de Execução
 
 ### 1. Tela Colaborador/Gestor - Dashboards Individuais
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%204/Gifs/integracaoLogin.gif"/>
 
 ###  2. Tela Admin - Dashboards Gerais
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%204/Gifs/integracaoLogin.gif"/>
 
 ### 3. Integração 
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%204/Gifs/integracaoLogin.gif"/>
 
 ### 4. Relatórios
 <img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%204/Gifs/integracaoLogin.gif"/>
