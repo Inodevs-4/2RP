@@ -38,6 +38,7 @@ Acesse o link para visualizar o protótipo no Figma.
 ### 3. Integração 
 
 ### 4. Relatórios
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%204/Gifs/integracaoLogin.gif"/>
 
 
 ## 📈 Burndown
