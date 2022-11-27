@@ -42,4 +42,4 @@ Acesse o link para visualizar o protótipo no Figma.
 
 
 ## 📈 Burndown
-<img src = "link" width="60%"/>
+<img src = "https://github.com/Inodevs-4/2RP/blob/main/Sprint%204/Burndown/burnDown.png" width="60%"/>
